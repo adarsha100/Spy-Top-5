@@ -1,0 +1,23 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "Spy Top 5",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "See the top 5 best and worst performers in the S&P 500",
+  "options_page": "options.html",
+  "permissions": [
+    "storage", "<all_urls>"
+  ],
+  "browser_action": {
+    "default_title": "SpyTop5",
+    "default_icon": {
+        "16": "images/icon16.png",
+        "32": "images/icon32.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+    },
+
+    "default_popup": "popup.html"
+  }
+}

@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+  width: 400px;
+  font-family: 'Roboto';
+  height: 800px;
+  background-color: #FFCF79;
+  color: #299F4C;
+}
+.title{
+  font-size: 35px;
+  text-align: center;
+}
