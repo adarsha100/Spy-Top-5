@@ -226,6 +226,7 @@ request.onload = function() {
       }
     } else {
       console.log("bummer");
+      request2.onload;
     }
     stocks.sort(function(a, b) {
       return b.changePercent - a.changePercent;
