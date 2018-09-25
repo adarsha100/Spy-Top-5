@@ -94,7 +94,7 @@ request.onload = function() {
       stocks[i]=stockobj;
     }
   } else {
-    console.log("bummer");
+    request.onload;
   }
   console.log(stocks);
 }
@@ -120,7 +120,7 @@ request.onload = function() {
       stocks[i]=stockobj;
     }
   } else {
-    console.log("bummer");
+    request.onload;
   }
   console.log(stocks);
 }
@@ -146,7 +146,7 @@ request.onload = function() {
       stocks[i]=stockobj;
     }
   } else {
-    console.log("bummer");
+    request.onload;
   }
   console.log(stocks);
 }
@@ -173,7 +173,7 @@ request.onload = function() {
       stocks[i]=stockobj;
     }
   } else {
-    console.log("bummer");
+    request.onload;
   }
   console.log(stocks);
 }
@@ -200,7 +200,7 @@ request.onload = function() {
       stocks[i]=stockobj;
     }
   } else {
-    console.log("bummer");
+    request.onload;
   }
   console.log(stocks[404].changePercent);
 
